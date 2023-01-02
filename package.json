@@ -20,7 +20,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "daisyui": "2.39.0",
+    "daisyui": "2.46.1",
     "next": "12.2.5",
     "next-themes": "0.2.1",
     "react": "18.2.0",
